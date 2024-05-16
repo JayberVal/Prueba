@@ -8,7 +8,8 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     public class Order
-    {
+    {  
+        // cambio release
         [BindNever]
         [ScaffoldColumn(false)]
         public int OrderId { get; set; }
