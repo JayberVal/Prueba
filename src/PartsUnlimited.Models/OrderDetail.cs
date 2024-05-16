@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class OrderDetail
     {
+        //nuevo cambio
         public int OrderDetailId { get; set; }
 
         public int OrderId { get; set; }
