@@ -12,7 +12,7 @@
 *.jpg  	binary
 *.png 	binary
 *.gif 	binary
-
+// rebase c
 *.cs text=auto diff=csharp 
 *.vb text=auto
 *.resx text=auto
