@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PartsUnlimited.Models
 {
+    //dia 2 modificacion 1
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }
